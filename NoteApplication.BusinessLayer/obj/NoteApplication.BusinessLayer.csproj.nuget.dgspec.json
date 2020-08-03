@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj": {}
+    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj": {}
   },
   "projects": {
-    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj": {
+    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj",
+        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj",
         "projectName": "NoteApplication.BusinessLayer",
-        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj",
+        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.BusinessLayer\\NoteApplication.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
-        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.BusinessLayer\\obj\\",
+        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\NoteApplication.Database.csproj": {
-                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\NoteApplication.Database.csproj"
+              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\NoteApplication.Database.csproj": {
+                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\NoteApplication.Database.csproj"
               },
-              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
-                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
+              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
+                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\NoteApplication.Database.csproj": {
+    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\NoteApplication.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\NoteApplication.Database.csproj",
+        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\NoteApplication.Database.csproj",
         "projectName": "NoteApplication.Database",
-        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\NoteApplication.Database.csproj",
+        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\NoteApplication.Database.csproj",
         "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
-        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Database\\obj\\",
+        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,8 +95,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
-                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
+              "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
+                "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
+    "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
+        "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
         "projectName": "NoteApplication.Entities",
-        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
+        "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
         "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
-        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\obj\\",
+        "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

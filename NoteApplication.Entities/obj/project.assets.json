@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
+      "projectUniqueName": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
       "projectName": "NoteApplication.Entities",
-      "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
+      "projectPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\NoteApplication.Entities.csproj",
       "packagesPath": "C:\\Users\\bizruntime\\.nuget\\packages\\",
-      "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\new\\NoteApplication.Entities\\obj\\",
+      "outputPath": "I:\\IIHT\\Note App\\PAJuniorFSE\\Project\\NoteApplicationMvc\\NoteApplication.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
