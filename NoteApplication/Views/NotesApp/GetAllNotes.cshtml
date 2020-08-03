@@ -1,0 +1,47 @@
+﻿@model IEnumerable<NoteApplication.Entities.Notes>;
+
+@{
+    ViewData["Title"] = "AllNotes";
+}
+
+<h1>AllNotes</h1>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Discription</th>
+        <th>Action</th>
+        <th>Edit/Delete</th>
+    </tr>
+    @foreach (var list in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelitem => list.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => list.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => list.Author)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => list.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => list.Status)
+    </td>
+    <td>
+        <a asp-action="UpdateNotes">Edit/</a>
+        <a asp-action="DeleteNotes">Delete</a>
+    </td>
+</tr>
+    }
+</table>
+
+<div>
+    <input type="button" value="HomePage" onclick="location.href='@Url.Action("Index", "Home")'" />
+</div>
+
+

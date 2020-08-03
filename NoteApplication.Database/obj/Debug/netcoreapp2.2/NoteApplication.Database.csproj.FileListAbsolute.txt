@@ -1,0 +1,11 @@
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\bin\Debug\netcoreapp2.2\NoteApplication.Database.deps.json
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\bin\Debug\netcoreapp2.2\NoteApplication.Database.dll
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\bin\Debug\netcoreapp2.2\NoteApplication.Database.pdb
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\bin\Debug\netcoreapp2.2\NoteApplication.Entities.dll
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\bin\Debug\netcoreapp2.2\NoteApplication.Entities.pdb
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.csprojAssemblyReference.cache
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.AssemblyInfoInputs.cache
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.AssemblyInfo.cs
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.csproj.CopyComplete
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.dll
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netcoreapp2.2\NoteApplication.Database.pdb

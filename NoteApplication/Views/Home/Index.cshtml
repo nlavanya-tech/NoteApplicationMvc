@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="text-center">
+    <h1 class="display-4">Notes App</h1>
+</div>
+
+<tr>
+    <th>
+        <input type="button" value="AddNewNotes" onclick="location.href='@Url.Action("AddNewNotes", "NotesApp")'" />
+    </th>
+    <th>
+        <input type="button" value="AllNotes" onclick="location.href='@Url.Action("GetAllNotes", "NotesApp")'" />
+    </th>
+    <th>
+        <input type="button" value="NotesStatus" onclick="location.href='@Url.Action("GetAllNoteStatus", "NotesApp")'" />
+    </th>
+</tr>
+
+@*<div class="text-center">
+
+
+
+
+        <h1 class="display-4">Notes App</h1>
+        <div>
+            <input type="button" value="AddNewNotes" onclick="location.href='@Url.Action("AddNewNotes", "NotesApp")'" />
+        </div>
+        <div>
+            <input type="button" value="AllNotes" onclick="location.href='@Url.Action("GetAllNotes", "NotesApp")'" />
+        </div>
+        <div>
+            <input type="button" value="NotesStatus" onclick="location.href='@Url.Action("GetAllNoteStatus", "NotesApp")'" />
+        </div>
+    </div>*@

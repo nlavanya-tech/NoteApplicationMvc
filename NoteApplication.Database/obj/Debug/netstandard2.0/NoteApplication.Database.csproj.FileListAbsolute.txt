@@ -1,0 +1,2 @@
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.AssemblyInfoInputs.cache
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Database\obj\Debug\netstandard2.0\NoteApplication.Database.AssemblyInfo.cs

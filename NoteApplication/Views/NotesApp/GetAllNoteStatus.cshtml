@@ -1,0 +1,42 @@
+﻿
+@model IEnumerable<NoteApplication.Entities.Notes>;
+
+@{
+    ViewData["Title"] = "AllNoteStatus";
+}
+
+<h1>AllNoteStatus</h1>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Discription</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelitem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => item.Title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => item.Author)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => item.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelitem => item.Status)
+    </td>
+</tr>
+    }
+</table>
+
+<div>
+    <input type="button" value="HomePage" onclick="location.href='@Url.Action("Index", "Home")'" />
+</div>
+

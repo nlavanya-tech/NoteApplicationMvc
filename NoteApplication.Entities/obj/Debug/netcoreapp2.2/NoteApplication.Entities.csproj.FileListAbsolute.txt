@@ -1,0 +1,8 @@
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\bin\Debug\netcoreapp2.2\NoteApplication.Entities.deps.json
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\bin\Debug\netcoreapp2.2\NoteApplication.Entities.dll
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\bin\Debug\netcoreapp2.2\NoteApplication.Entities.pdb
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\obj\Debug\netcoreapp2.2\NoteApplication.Entities.AssemblyInfoInputs.cache
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\obj\Debug\netcoreapp2.2\NoteApplication.Entities.AssemblyInfo.cs
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\obj\Debug\netcoreapp2.2\NoteApplication.Entities.dll
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\obj\Debug\netcoreapp2.2\NoteApplication.Entities.pdb
+I:\IIHT\Note App\PAJuniorFSE\Project\new\NoteApplication.Entities\obj\Debug\netcoreapp2.2\NoteApplication.Entities.csprojAssemblyReference.cache

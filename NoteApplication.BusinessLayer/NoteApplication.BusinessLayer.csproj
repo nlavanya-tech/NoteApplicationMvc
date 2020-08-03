@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NoteApplication.Database\NoteApplication.Database.csproj" />
+    <ProjectReference Include="..\NoteApplication.Entities\NoteApplication.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
